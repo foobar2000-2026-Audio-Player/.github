@@ -110,7 +110,7 @@ The official SDK was also updated to **2026-09-17**, introducing additional deve
 | Audio            | Windows-compatible audio device              |
 | Internet         | Optional for local playback                  |
 
-The official Windows requirements specify a computer no older than approximately 20 years running Windows 7 or newer. Current Windows builds are available for 32-bit, 64-bit, and ARM platforms. ([foobar2000.org](https://www.foobar2000.org/windows?utm_source=chatgpt.com))
+The official Windows requirements specify a computer no older than approximately 20 years running Windows 7 or newer. Current Windows builds are available for 32-bit, 64-bit, and ARM platforms. 
 
 Actual resource usage depends on library size, interface configuration, active components, visualizations, DSP processing, and the number of simultaneously loaded playlists.
 
