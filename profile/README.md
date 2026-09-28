@@ -14,7 +14,7 @@ foobar2000 is a lightweight and highly customizable audio player designed for mu
 
 The Windows version supports a wide range of audio formats and can be extended through a large ecosystem of components. Its interface can be customized extensively, allowing users to build simple playback layouts or more advanced music-library workspaces.
 
-As of September 2026, the latest stable Windows release is **foobar2000 2.25.10**, released June 26, 2026. The **2.26** branch is available as a preview build, with a preview released September 22, 2026. ([foobar2000.org](https://www.foobar2000.org/windows?utm_source=chatgpt.com))
+As of September 2026, the latest stable Windows release is **foobar2000 2.25.10**, released June 26, 2026. The **2.26** branch is available as a preview build, with a preview released September 22, 2026. 
 
 ---
 
@@ -74,7 +74,7 @@ Components can add support for additional audio formats, visualizations, DSP fun
 
 The official Components Repository provides components developed for supported foobar2000 versions.
 
-The 2026 SDK has also received significant updates, including C++20 requirements and new APIs for developers creating components for current foobar2000 releases. ([foobar2000.org](https://www.foobar2000.org/SDK?utm_source=chatgpt.com))
+The 2026 SDK has also received significant updates, including C++20 requirements and new APIs for developers creating components for current foobar2000 releases. 
 
 ---
 
@@ -88,12 +88,11 @@ The stable Windows release **foobar2000 2.25.10** was released on June 26, 2026.
 * TLS 1.3 support for HTTPS connections.
 * Ogg/Opus chapter handling fixes.
 * Direct2D visualization fixes after GPU driver reinitialization.
-* Updated 7-Zip and UnRAR libraries. ([foobar2000.org](https://www.foobar2000.org/changelog?utm_source=chatgpt.com))
+* Updated 7-Zip and UnRAR libraries. 
 
-The **2.26 preview** received additional updates during September 2026, including improved UPnP compatibility, smooth-seeking fixes, M4A handling improvements, and macOS playback-interface fixes. ([foobar2000.org](https://www.foobar2000.org/changelog-2.26-preview?utm_source=chatgpt.com))
+The **2.26 preview** received additional updates during September 2026, including improved UPnP compatibility, smooth-seeking fixes, M4A handling improvements, and macOS playback-interface fixes.
 
-The official SDK was also updated to **2026-09-17**, introducing additional development APIs and C++20-based build requirements. ([foobar2000.org](https://www.foobar2000.org/SDK?utm_source=chatgpt.com))
-
+The official SDK was also updated to **2026-09-17**, introducing additional development APIs and C++20-based build requirements.
 ---
 
 # System Compatibility & Performance
